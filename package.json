@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "displayName": "UPM Generator (BSS)",
   "unity": "2019.1",
-  "git": "",
+  "git": "https://github.com/bss1284/upmgenerator-unity-plugin.git",
   "author": {
     "name": "Sanghun Lee",
-    "email": "tkdgns1284@gmail.com"
+    "email": "tkdgns1284@gmail.com",
+    "git":"https://github.com/bss1284"
   },
   "dependencies": {}
 }
